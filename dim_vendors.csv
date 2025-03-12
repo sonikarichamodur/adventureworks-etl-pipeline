@@ -1,0 +1,157 @@
+VendorKey,VendorID,AccountNumber,VendorName,CreditRating,PreferredVendorStatus,ActiveFlag,VendorModifiedDate,AddressLine1,AddressLine2,City,PostalCode,AddressModifiedDate,FirstName,MiddleName,LastName,EmailAddress,Phone,ContactTypeName,ContactModifiedDate
+1,1,INTERNAT0001,International,1,b'\x01',b'\x01',2002-02-25,683 Larch Ct.,,Salt Lake City,84101,2002-02-25,Julia,,Moseley,julia0@adventure-works.com,432-555-0100,Assistant Sales Agent,2002-02-25
+2,2,ELECTRON0002,Electronic Bike Repair & Supplies,1,b'\x01',b'\x01',2002-02-17,8547 Catherine Way,,Tacoma,98403,2002-02-17,Sean,,Purcell,sean5@adventure-works.com,130-555-0100,Assistant Sales Agent,2002-02-17
+3,2,ELECTRON0002,Electronic Bike Repair & Supplies,1,b'\x01',b'\x01',2002-02-17,8547 Catherine Way,,Tacoma,98403,2002-02-17,Catherine,M.,Whitney,catherine1@adventure-works.com,206-555-0100,Sales Agent,2002-02-17
+4,2,ELECTRON0002,Electronic Bike Repair & Supplies,1,b'\x01',b'\x01',2002-02-17,8547 Catherine Way,,Tacoma,98403,2002-02-17,Richard,T.,Young,richard6@adventure-works.com,683-555-0100,Sales Manager,2002-02-17
+5,3,PREMIER0001,"Premier Sport, Inc.",1,b'\x01',b'\x01',2002-03-05,7682 Fern Leaf Lane,,Boston,02113,2002-03-05,Constance,J.,Remmington,constance1@adventure-works.com,537-555-0100,Sales Associate,2002-03-05
+6,4,COMFORT0001,Comfort Road Bicycles,1,b'\x01',b'\x01',2002-01-24,7651 Smiling Tree Court,Space 55,Los Angeles,90012,2002-01-24,Mandar,,Naik,mandar1@adventure-works.com,240-555-0100,Sales Manager,2002-01-24
+7,5,METROSP0001,Metro Sport Equipment,1,b'\x01',b'\x01',2002-03-01,60 Oakgrove Rd.,,Lebanon,97355,2002-03-01,Pat,R.,Pinkston,pat3@adventure-works.com,387-555-0100,Sales Associate,2002-03-01
+8,6,GREENLA0001,Green Lake Bike Company,1,b'\x01',b'\x01',2002-03-01,2342 Peachwillow,,Denver,80203,2002-03-01,Toby,,Nixon,toby0@adventure-works.com,269-555-0100,Sales Agent,2002-03-01
+9,7,MOUNTAIN0001,Mountain Works,1,b'\x00',b'\x01',2002-03-05,8 Rogers Ave.,,Everett,98201,2002-03-05,Cynthia,,Randall,cynthia1@adventure-works.com,961-555-0100,Sales Associate,2002-03-05
+10,8,CONTINEN0001,Continental Pro Cycles,3,b'\x01',b'\x01',2002-01-24,2 Lion Circle,,Long Beach,90802,2002-01-24,Lionel,,Penuchot,lionel1@adventure-works.com,718-555-0100,Sales Agent,2002-01-24
+11,9,ADATUM0001,A. Datum Corporation,1,b'\x01',b'\x01',2002-01-24,2596 Big Canyon Road,,New York,10007,2002-01-24,Frank,,Pellow,frank7@adventure-works.com,941-555-0100,Assistant Sales Agent,2002-01-24
+12,9,ADATUM0001,A. Datum Corporation,1,b'\x01',b'\x01',2002-01-24,2596 Big Canyon Road,,New York,10007,2002-01-24,Jay,J.,Wilkie,jay5@adventure-works.com,813-555-0100,Sales Agent,2002-01-24
+13,9,ADATUM0001,A. Datum Corporation,1,b'\x01',b'\x01',2002-01-24,2596 Big Canyon Road,,New York,10007,2002-01-24,Wei,,Yu,wei0@adventure-works.com,870-555-0100,Sales Manager,2002-01-24
+14,10,TREYRE0001,Trey Research,3,b'\x01',b'\x01',2002-02-25,1874 Valley Blvd.,,Palo Alto,94303,2002-02-25,Cristian,B.,Osorio,cristian1@adventure-works.com,597-555-0100,Sales Agent,2002-02-25
+15,11,ANDERSON0001,Anderson's Custom Bikes,1,b'\x01',b'\x01',2001-06-09,9 Guadalupe Dr.,,Burbank,91502,2001-06-09,Suzann,K.,Reams,suzann0@adventure-works.com,354-555-0100,Sales Agent,2001-06-09
+16,11,ANDERSON0001,Anderson's Custom Bikes,1,b'\x01',b'\x01',2001-06-09,9 Guadalupe Dr.,,Burbank,91502,2001-06-09,Steven,M.,Wright,steven5@adventure-works.com,232-555-0100,Sales Associate,2001-06-09
+17,12,COMPETE0002,"Compete, Inc.",1,b'\x01',b'\x01',2002-01-24,9491 Toyon Dr,,Dallas,75201,2002-01-24,Thomas,M.,Richards,thomas3@adventure-works.com,177-555-0100,Sales Manager,2002-01-24
+18,13,BEAUMONT0001,Beaumont Bikes,1,b'\x00',b'\x01',2002-01-23,2472 Alexander Place,,West Covina,83301,2002-01-23,John,,Peoples,john26@adventure-works.com,943-555-0100,Sales Agent,2002-01-23
+19,13,BEAUMONT0001,Beaumont Bikes,1,b'\x00',b'\x01',2002-01-23,2472 Alexander Place,,West Covina,83301,2002-01-23,Peng,,Wu,peng1@adventure-works.com,306-555-0100,Sales Associate,2002-01-23
+20,14,LIGHTSP0001,Light Speed,1,b'\x01',b'\x01',2002-01-23,298 Sunnybrook Drive,,Spring Valley,91977,2002-01-23,Marie,E.,Moya,marie0@adventure-works.com,114-555-0100,Sales Agent,2002-01-23
+21,15,SUPERSAL0001,SUPERSALES INC.,1,b'\x01',b'\x01',2002-03-06,9443 Oaxaca,,Lakewood,90712,2002-03-06,Shyamalan,,Pather,shyamalan0@adventure-works.com,843-555-0100,Sales Associate,2002-03-06
+22,16,IMAGEMA0001,Image Makers Bike Center,1,b'\x01',b'\x01',2002-03-06,3195 RiverRock Dr.,,Burlingame,94010,2002-03-06,Suzanne,,Nelson,suzanne0@adventure-works.com,314-555-0100,Assistant Sales Agent,2002-03-06
+23,16,IMAGEMA0001,Image Makers Bike Center,1,b'\x01',b'\x01',2002-03-06,3195 RiverRock Dr.,,Burlingame,94010,2002-03-06,Dan,,Wilson,dan2@adventure-works.com,751-555-0100,Sales Agent,2002-03-06
+24,16,IMAGEMA0001,Image Makers Bike Center,1,b'\x01',b'\x01',2002-03-06,3195 RiverRock Dr.,,Burlingame,94010,2002-03-06,Greg,,Yvkoff,greg5@adventure-works.com,110-555-0100,Sales Manager,2002-03-06
+25,17,COMPETE0001,"Compete Enterprises, Inc",1,b'\x01',b'\x01',2002-01-24,50 Via Del Sol,,Lynnwood,98036,2002-01-24,Jon,,Morris,jon2@adventure-works.com,321-555-0100,Sales Associate,2002-01-24
+26,17,COMPETE0001,"Compete Enterprises, Inc",1,b'\x01',b'\x01',2002-01-24,50 Via Del Sol,,Lynnwood,98036,2002-01-24,Sheela,,Word,sheela1@adventure-works.com,387-555-0100,Sales Manager,2002-01-24
+27,17,COMPETE0001,"Compete Enterprises, Inc",1,b'\x01',b'\x01',2002-01-24,50 Via Del Sol,,Lynnwood,98036,2002-01-24,Carla,J.,Zubaty,carla2@adventure-works.com,516-555-0100,Sales Agent,2002-01-24
+28,18,G&KBI0001,G & K Bicycle Corp.,1,b'\x01',b'\x01',2002-01-24,8981 Carmel Drive,,W. Linn,89701,2002-01-24,Stuart,,Munson,stuart2@adventure-works.com,235-555-0100,Sales Agent,2002-01-24
+29,19,CYCLING0001,Cycling Master,1,b'\x01',b'\x01',2002-01-24,4823 Stonewood Ct.,,Walla Walla,99362,2002-01-24,Hillaine,N.,Montera,hillaine0@adventure-works.com,920-555-0100,Sales Agent,2002-01-24
+30,20,JEFFSSP0001,Jeff's Sporting Goods,1,b'\x01',b'\x01',2002-01-24,31 Bridgeview St,,Glendale,91203,2002-01-24,Michiko,,Osada,michiko1@adventure-works.com,288-555-0100,Sales Associate,2002-01-24
+31,21,BUSINESS0001,Business Equipment Center,2,b'\x01',b'\x01',2002-01-23,6061 St. Paul Way,,Everett,98201,2002-01-23,Leota,J.,Roberts,leota0@adventure-works.com,336-555-0100,Sales Associate,2002-01-23
+32,21,BUSINESS0001,Business Equipment Center,2,b'\x01',b'\x01',2002-01-23,6061 St. Paul Way,,Everett,98201,2002-01-23,John,,Wood,john29@adventure-works.com,873-555-0100,Sales Manager,2002-01-23
+33,21,BUSINESS0001,Business Equipment Center,2,b'\x01',b'\x01',2002-01-23,6061 St. Paul Way,,Everett,98201,2002-01-23,Karin,,Zimprich,karin0@adventure-works.com,183-555-0100,Sales Agent,2002-01-23
+34,22,VICTORY0001,Victory Bikes,5,b'\x01',b'\x01',2002-03-21,3459 Tri-state Ave,,Issaquah,98027,2002-03-21,Kim,,Ralls,kim4@adventure-works.com,193-555-0100,Sales Agent,2002-03-21
+35,23,NORSTAN0001,Norstan Bike Hut,1,b'\x01',b'\x01',2002-03-05,68 Filling Ave.,,Beaverton,97005,2002-03-05,Lee,M.,Olguin,lee1@adventure-works.com,944-555-0100,Sales Associate,2002-03-05
+36,24,FIRSTRA0001,First Rate Bicycles,1,b'\x01',b'\x01',2002-02-25,7053 Laurel Dr.,,La Mesa,88044,2002-02-25,John,E.,Ortiz,john25@adventure-works.com,133-555-0100,Sales Agent,2002-02-25
+37,25,READYRE0001,Ready Rentals,1,b'\x01',b'\x01',2002-03-05,35 Buckthorn Court,# 1,Kirkland,98033,2002-03-05,Mike,,Nash,mike4@adventure-works.com,198-555-0100,Sales Manager,2002-03-05
+38,26,FIRSTNA0001,First National Sport Co.,1,b'\x01',b'\x01',2002-02-25,8127 Otter Dr.,,Boise,83702,2002-02-25,Billie Jo,,Murray,billiejo0@adventure-works.com,923-555-0100,Assistant Sales Agent,2002-02-25
+39,26,FIRSTNA0001,First National Sport Co.,1,b'\x01',b'\x01',2002-02-25,8127 Otter Dr.,,Boise,83702,2002-02-25,Todd,K.,Whitney,todd1@adventure-works.com,376-555-0100,Sales Agent,2002-02-25
+40,26,FIRSTNA0001,First National Sport Co.,1,b'\x01',b'\x01',2002-02-25,8127 Otter Dr.,,Boise,83702,2002-02-25,Rob,,Young,rob3@adventure-works.com,152-555-0100,Sales Manager,2002-02-25
+41,27,CAPITAL0001,Capital Road Cycles,1,b'\x01',b'\x01',2002-01-24,628 Muir Road,,Los Angeles,90012,2002-01-24,Nino,E.,Olivotto,nino0@adventure-works.com,528-555-0100,Sales Agent,2002-01-24
+42,28,WIDEWOR0001,Wide World Importers,2,b'\x01',b'\x01',2002-02-17,50 Edward Ave,,Concord,94519,2002-02-17,Monica,L.,Quintana,monica0@adventure-works.com,207-555-0100,Assistant Sales Agent,2002-02-17
+43,28,WIDEWOR0001,Wide World Importers,2,b'\x01',b'\x01',2002-02-17,50 Edward Ave,,Concord,94519,2002-02-17,Steven,K.,Whitehead,steven4@adventure-works.com,327-555-0100,Sales Agent,2002-02-17
+44,28,WIDEWOR0001,Wide World Importers,2,b'\x01',b'\x01',2002-02-17,50 Edward Ave,,Concord,94519,2002-02-17,Tai,,Yee,tai0@adventure-works.com,953-555-0100,Sales Manager,2002-02-17
+45,29,INTEGRAT0001,Integrated Sport Products,1,b'\x01',b'\x01',2002-02-17,75 Q St.,,Chula Vista,91910,2002-02-17,Josh,,Pollock,josh1@adventure-works.com,117-555-0100,Assistant Sales Agent,2002-02-17
+46,30,CONSUMER0001,Consumer Cycles,3,b'\x01',b'\x01',2002-01-24,3 Chablis Court,,Torrance,90505,2002-01-24,Laura,,Norman,laura2@adventure-works.com,460-555-0100,Sales Manager,2002-01-24
+47,31,FEDERAL0001,Federal Sport,3,b'\x01',b'\x01',2002-02-25,2909 Toyon Dr.,,Burlingame,94010,2002-02-25,Elizabeth,M.,Peoples,elizabeth3@adventure-works.com,614-555-0100,Assistant Sales Agent,2002-02-25
+48,31,FEDERAL0001,Federal Sport,3,b'\x01',b'\x01',2002-02-25,2909 Toyon Dr.,,Burlingame,94010,2002-02-25,Shawn,M.,Whitney,shawn1@adventure-works.com,803-555-0100,Sales Agent,2002-02-25
+49,31,FEDERAL0001,Federal Sport,3,b'\x01',b'\x01',2002-02-25,2909 Toyon Dr.,,Burlingame,94010,2002-02-25,Garrett,,Young,garrett2@adventure-works.com,549-555-0100,Sales Manager,2002-02-25
+50,32,ADVANCED0001,Advanced Bicycles,1,b'\x01',b'\x01',2001-05-26,7995 Edwards Ave.,,Lynnwood,98036,2001-05-26,Jonathan,,Moeller,jonathan0@adventure-works.com,859-555-0100,Sales Associate,2001-05-26
+51,32,ADVANCED0001,Advanced Bicycles,1,b'\x01',b'\x01',2001-05-26,7995 Edwards Ave.,,Lynnwood,98036,2001-05-26,James,C.,Wilson,james16@adventure-works.com,239-555-0100,Sales Manager,2001-05-26
+52,32,ADVANCED0001,Advanced Bicycles,1,b'\x01',b'\x01',2001-05-26,7995 Edwards Ave.,,Lynnwood,98036,2001-05-26,Eugene,,Zabokritski,eugene3@adventure-works.com,762-555-0100,Sales Agent,2001-05-26
+53,33,SIGNATUR0001,Signature Cycles,2,b'\x01',b'\x01',2002-03-05,50 Kim Court,,Coronado,92118,2002-03-05,Rajesh,M.,Patel,rajesh1@adventure-works.com,724-555-0100,Sales Associate,2002-03-05
+54,34,INDIANA0001,Indiana Bicycle Center,1,b'\x01',b'\x01',2002-03-05,9620 Laurel Drive,,Novato,82070,2002-03-05,Alma,B.,Poorbaugh,alma0@adventure-works.com,153-555-0100,Assistant Sales Agent,2002-03-05
+55,35,MITCHELL0001,Mitchell Sports,1,b'\x01',b'\x01',2002-03-05,7562 Daylight Place,,Everett,98201,2002-03-05,Mosha,M.,Park,mosha0@adventure-works.com,352-555-0100,Sales Associate,2002-03-05
+56,36,RECREATI0001,Recreation Place,4,b'\x01',b'\x01',2002-03-05,207 Concerto Circle,,Salem,97301,2002-03-05,Dorothy,J.,Myer,dorothy2@adventure-works.com,991-555-0100,Sales Associate,2002-03-05
+57,37,INNERCI0001,Inner City Bikes,3,b'\x01',b'\x01',2002-02-25,102 Silverado Drive,,W. Linn,97068,2002-02-25,Jyothi,,Pai,jyothi0@adventure-works.com,433-555-0100,Assistant Sales Agent,2002-02-25
+58,38,ALLENSON0001,Allenson Cycles,2,b'\x01',b'\x01',2001-05-26,4659 Montoya,,Altadena,91001,2001-05-26,Suchitra,,Mohan,suchitra1@adventure-works.com,298-555-0100,Sales Agent,2001-05-26
+59,38,ALLENSON0001,Allenson Cycles,2,b'\x01',b'\x01',2001-05-26,4659 Montoya,,Altadena,91001,2001-05-26,Michiel,,Wories,michiel0@adventure-works.com,530-555-0100,Sales Associate,2001-05-26
+60,39,HILLSBI0001,Hill's Bicycle Service,1,b'\x01',b'\x01',2002-02-25,3664 Colt Ct.,,Richmond,94801,2002-02-25,Amir,T.,Netz,amir0@adventure-works.com,362-555-0100,Assistant Sales Agent,2002-02-25
+61,39,HILLSBI0001,Hill's Bicycle Service,1,b'\x01',b'\x01',2002-02-25,3664 Colt Ct.,,Richmond,94801,2002-02-25,Benjamin,C.,Willett,benjamin3@adventure-works.com,302-555-0100,Sales Agent,2002-02-25
+62,39,HILLSBI0001,Hill's Bicycle Service,1,b'\x01',b'\x01',2002-02-25,3664 Colt Ct.,,Richmond,94801,2002-02-25,Ian,A.,Yuhasz,ian0@adventure-works.com,845-555-0100,Sales Manager,2002-02-25
+63,40,WESTJUN0001,West Junction Cycles,1,b'\x01',b'\x01',2002-03-21,7786 Olive St,,Olympia,98501,2002-03-21,Tina,Slone,O'Dell,tina0@adventure-works.com,173-555-0100,Sales Associate,2002-03-21
+64,41,SPEEDCO0001,Speed Corporation,1,b'\x01',b'\x01',2002-03-05,2834 Clifford Court,#9,Anacortes,98221,2002-03-05,Deborah,,Poe,deborah2@adventure-works.com,331-555-0100,Sales Agent,2002-03-05
+65,42,LEGENDC0001,Legend Cycles,1,b'\x01',b'\x01',2002-03-05,978 Mozden Lane,,San Francisco,94109,2002-03-05,Fred,,Preston,fred3@adventure-works.com,704-555-0100,Sales Associate,2002-03-05
+66,43,INLINEA0001,Inline Accessories,1,b'\x01',b'\x01',2002-02-25,5 Madrid,,Concord,94519,2002-02-25,Betty,J.,Potts,betty1@adventure-works.com,120-555-0100,Sales Agent,2002-02-25
+67,44,COMPETIT0001,Competition Bike Training Systems,1,b'\x01',b'\x01',2002-01-24,4151 Olivera,,Atlanta,30308,2002-01-24,Grigory,,Pogulsky,grigory0@adventure-works.com,557-555-0100,Sales Associate,2002-01-24
+68,45,CHICAGO0001,Chicago City Saddles,1,b'\x01',b'\x01',2002-01-24,3 Gehringer Drive,,Daly City,94015,2002-01-24,Stacy,K.,Rizzi,stacy0@adventure-works.com,329-555-0100,Sales Manager,2002-01-24
+69,46,BURNETT0001,Burnett Road Warriors,1,b'\x01',b'\x01',2002-01-23,5807 Churchill Dr.,,Corvallis,97330,2002-01-23,Gloria,B.,Orona,gloria1@adventure-works.com,810-555-0100,Sales Associate,2002-01-23
+70,46,BURNETT0001,Burnett Road Warriors,1,b'\x01',b'\x01',2002-01-23,5807 Churchill Dr.,,Corvallis,97330,2002-01-23,Dorothy,M.,Wollesen,dorothy5@adventure-works.com,208-555-0100,Sales Manager,2002-01-23
+71,46,BURNETT0001,Burnett Road Warriors,1,b'\x01',b'\x01',2002-01-23,5807 Churchill Dr.,,Corvallis,97330,2002-01-23,Arvid,B.,Ziegler,arvid0@adventure-works.com,398-555-0100,Sales Agent,2002-01-23
+72,47,BIKESAT0001,Bike Satellite Inc.,1,b'\x00',b'\x01',2002-01-23,2141 Delaware Ct.,,Downey,37501,2002-01-23,Jonathan,,Perera,jonathan1@adventure-works.com,404-555-0100,Sales Associate,2002-01-23
+73,47,BIKESAT0001,Bike Satellite Inc.,1,b'\x00',b'\x01',2002-01-23,2141 Delaware Ct.,,Downey,37501,2002-01-23,Eunice,J.,Wolf,eunice0@adventure-works.com,305-555-0100,Sales Manager,2002-01-23
+74,47,BIKESAT0001,Bike Satellite Inc.,1,b'\x00',b'\x01',2002-01-23,2141 Delaware Ct.,,Downey,37501,2002-01-23,Larry,,Zhang,larry0@adventure-works.com,143-555-0100,Sales Agent,2002-01-23
+75,48,GARDNER0001,Gardner Touring Cycles,1,b'\x00',b'\x00',2002-02-25,8513 Hurlstone Ct.,,Altadena,91001,2002-02-25,Salman,,Mughal,salman0@adventure-works.com,882-555-0100,Sales Manager,2002-02-25
+76,48,GARDNER0001,Gardner Touring Cycles,1,b'\x00',b'\x00',2002-02-25,8513 Hurlstone Ct.,,Altadena,91001,2002-02-25,Michael,J.,Zwilling,michael28@adventure-works.com,542-555-0100,Sales Associate,2002-02-25
+77,49,MAGICCY0001,Magic Cycles,1,b'\x01',b'\x01',2002-02-25,24 Bohon Circle,,Burlingame,94010,2002-02-25,Simon,,Rapier,simon1@adventure-works.com,476-555-0100,Sales Manager,2002-02-25
+78,50,VISIONC0001,"Vision Cycles, Inc.",1,b'\x00',b'\x01',2002-03-21,40 Panorama Drive,,Glendale,91203,2002-03-21,Scott,,Oveson,scott9@adventure-works.com,939-555-0100,Sales Associate,2002-03-21
+79,51,BERGERON0001,Bergeron Off-Roads,1,b'\x01',b'\x01',2002-01-23,9830 May Way,,Mill Valley,59715,2002-01-23,Jan,R.,Nelsen,jan2@adventure-works.com,905-555-0100,Sales Associate,2002-01-23
+80,51,BERGERON0001,Bergeron Off-Roads,1,b'\x01',b'\x01',2002-01-23,9830 May Way,,Mill Valley,59715,2002-01-23,Audrey,E.,Wold,audrey0@adventure-works.com,301-555-0100,Sales Manager,2002-01-23
+81,51,BERGERON0001,Bergeron Off-Roads,1,b'\x01',b'\x01',2002-01-23,9830 May Way,,Mill Valley,59715,2002-01-23,Frank,,Zhang,frank8@adventure-works.com,889-555-0100,Sales Agent,2002-01-23
+82,52,HYBRIDB0001,Hybrid Bicycle Center,1,b'\x01',b'\x01',2002-02-25,6959 Lakewood Court,,Daly City,94015,2002-02-25,Glin,J.,Peterson,glin0@adventure-works.com,626-555-0100,Sales Agent,2002-02-25
+83,53,JACKSON0001,Jackson Authority,1,b'\x01',b'\x01',2002-02-25,32 East 87th Street,,Long Beach,90802,2002-02-25,Adam,J.,Reynolds,adam1@adventure-works.com,574-555-0100,Sales Agent,2002-02-25
+84,54,PROSPOR0001,Pro Sport Industries,1,b'\x00',b'\x01',2002-03-05,6360 Sand Pointe Lane,,Coronado,92118,2002-03-05,Dave,,Richards,dave1@adventure-works.com,582-555-0100,Sales Manager,2002-03-05
+85,55,SPORTFA0001,Sport Fan Co.,1,b'\x01',b'\x01',2002-03-05,80 Edward Ave,,Burien,98168,2002-03-05,Ethel,J.,Porter,ethel0@adventure-works.com,665-555-0100,Sales Associate,2002-03-05
+86,56,INTERNAT0002,International Bicycles,1,b'\x01',b'\x01',2002-02-25,20 Rambling Rose Ave.,# 103,West Covina,91791,2002-02-25,Ken,,Myer,ken2@adventure-works.com,176-555-0100,Sales Agent,2002-02-25
+87,57,WOODFIT0001,Wood Fitness,1,b'\x01',b'\x01',2002-03-21,7824 Frame Ln,,Philadelphia,19107,2002-03-21,Jack,S.,Richins,jack3@adventure-works.com,705-555-0100,Sales Agent,2002-03-21
+88,58,MIDWEST0001,"Midwest Sport, Inc.",1,b'\x01',b'\x01',2002-03-05,594 Tossing Way,,Detroit,48226,2002-03-05,Sara,E.,Pettengill,sara1@adventure-works.com,125-555-0100,Sales Associate,2002-03-05
+89,59,ELECTRON0001,Electronic Bike Co.,1,b'\x01',b'\x01',2002-03-05,8157 Tweed Lane,,Anacortes,98221,2002-03-05,Jeff,,Price,jeff3@adventure-works.com,927-555-0100,Assistant Sales Agent,2002-03-05
+90,59,ELECTRON0001,Electronic Bike Co.,1,b'\x01',b'\x01',2002-03-05,8157 Tweed Lane,,Anacortes,98221,2002-03-05,Gregory,R.,Whiting,gregory3@adventure-works.com,218-555-0100,Sales Agent,2002-03-05
+91,59,ELECTRON0001,Electronic Bike Co.,1,b'\x01',b'\x01',2002-03-05,8157 Tweed Lane,,Anacortes,98221,2002-03-05,Joe,,Yong,joe2@adventure-works.com,221-555-0100,Sales Manager,2002-03-05
+92,60,INTERNAT0003,International Sport Assoc.,1,b'\x01',b'\x01',2002-02-25,6119 11th,,Salt Lake City,84101,2002-02-25,Milton,M.,Pugh,milton1@adventure-works.com,164-555-0100,Assistant Sales Agent,2002-02-25
+93,61,LINDELL0001,Lindell,1,b'\x01',b'\x01',2002-03-01,9151 Napa C.,,Lebanon,97355,2002-03-01,Michael,,Patten,michael20@adventure-works.com,178-555-0100,Sales Associate,2002-03-01
+94,62,TRAINING0001,Training Systems,1,b'\x01',b'\x01',2002-03-06,6 Dancing Road,,Burien,98168,2002-03-06,Zheng,,Mu,zheng1@adventure-works.com,945-555-0100,Sales Agent,2002-03-06
+95,63,MERITBI0001,Merit Bikes,5,b'\x01',b'\x01',2002-03-06,7 Mayda Way,,Bremerton,98312,2002-03-06,Fred,,Northup,fred1@adventure-works.com,330-555-0100,Sales Agent,2002-03-06
+96,64,CIRCUIT0001,Circuit Cycles,1,b'\x00',b'\x00',2002-01-24,1 Mt. Dell Drive,,Portland,97205,2002-01-24,Donals,E.,Nilson,donals0@adventure-works.com,526-555-0100,Sales Agent,2002-01-24
+97,65,INTERNAT0004,International Trek Center,1,b'\x01',b'\x01',2002-01-24,8844 Garcia,,West Covina,91791,2002-01-24,Albert,,Mungin,albert0@adventure-works.com,439-555-0100,Assistant Sales Agent,2002-01-24
+98,66,LAKEWOOD0001,Lakewood Bicycle,1,b'\x01',b'\x01',2002-03-01,6030 Winter Drive,# 4d,Imperial Beach,91932,2002-03-01,Paulo,Sergio Da Silva,Pinto,paulo1@adventure-works.com,823-555-0100,Sales Manager,2002-03-01
+99,67,KNOPFLER0001,Knopfler Cycles,1,b'\x01',b'\x01',2002-03-01,3253 La Jolla,,Salem,97301,2002-03-01,Greg,F.,Mohamed,greg4@adventure-works.com,163-555-0100,Sales Manager,2002-03-01
+100,68,LEAFRIV0001,Leaf River Terrain,1,b'\x00',b'\x01',2002-03-01,1619 Mills Dr.,,Albany,97321,2002-03-01,Michelle,B.,Rector,michelle1@adventure-works.com,459-555-0100,Sales Agent,2002-03-01
+101,69,NATIONAL0001,National Bike Association,1,b'\x01',b'\x01',2002-03-05,90 Trujillo,,Sedro Woolley,98284,2002-03-05,David,J.,Ortiz,david21@adventure-works.com,937-555-0100,Sales Agent,2002-03-05
+102,70,SPORTPL0001,Sport Playground,1,b'\x01',b'\x01',2002-03-05,8671 Westwood Lane,,Palo Alto,94303,2002-03-05,James,,Peters,james13@adventure-works.com,709-555-0100,Sales Associate,2002-03-05
+103,71,VISTARO0001,Vista Road Bikes,3,b'\x01',b'\x01',2002-03-21,8197 Hermosa,,Salem,97301,2002-03-21,Alex,,Nayberg,alex1@adventure-works.com,134-555-0100,Sales Associate,2002-03-21
+104,72,VARSITY0001,Varsity Sport Co.,1,b'\x01',b'\x01',2002-03-21,81 Ana Mile,,Spokane,99202,2002-03-21,Randy,,Reeves,randy1@adventure-works.com,668-555-0100,Sales Agent,2002-03-21
+105,73,CROWLEY0001,Crowley Sport,1,b'\x01',b'\x01',2002-01-24,9056 Mount Dr,,Chicago,60610,2002-01-24,Arvind,B.,Rao,arvind1@adventure-works.com,141-555-0100,Sales Manager,2002-01-24
+106,73,CROWLEY0001,Crowley Sport,1,b'\x01',b'\x01',2002-01-24,9056 Mount Dr,,Chicago,60610,2002-01-24,Judy,N.,Zugelder,judy4@adventure-works.com,611-555-0100,Sales Associate,2002-01-24
+107,74,AUSTRALI0001,Australia Bike Retailer,1,b'\x01',b'\x01',2002-01-23,28 San Marino Ct.,,Bellingham,98225,2002-01-23,Paula,B.,Moberly,paula2@adventure-works.com,273-555-0100,Sales Associate,2002-01-23
+108,74,AUSTRALI0001,Australia Bike Retailer,1,b'\x01',b'\x01',2002-01-23,28 San Marino Ct.,,Bellingham,98225,2002-01-23,Charlene,J.,Wojcik,charlene0@adventure-works.com,459-555-0100,Sales Manager,2002-01-23
+109,74,AUSTRALI0001,Australia Bike Retailer,1,b'\x01',b'\x01',2002-01-23,28 San Marino Ct.,,Bellingham,98225,2002-01-23,Jo,J.,Zimmerman,jo3@adventure-works.com,816-555-0100,Sales Agent,2002-01-23
+110,75,NORTHERN0001,Northern Bike Travel,3,b'\x01',b'\x01',2002-03-05,3427 C Del Rio Ln,,Anacortes,98221,2002-03-05,Michael,S,Ray,michael21@adventure-works.com,317-555-0100,Sales Manager,2002-03-05
+111,75,NORTHERN0001,Northern Bike Travel,3,b'\x01',b'\x01',2002-03-05,3427 C Del Rio Ln,,Anacortes,98221,2002-03-05,Patricia,M.,Zubaty,patricia3@adventure-works.com,175-555-0100,Sales Associate,2002-03-05
+112,76,CRUGERB0001,Cruger Bike Company,1,b'\x01',b'\x01',2002-02-17,67 Monetary Way,,Berkeley,94704,2002-02-17,Lorraine,,Nay,lorraine1@adventure-works.com,669-555-0100,Assistant Sales Agent,2002-02-17
+113,76,CRUGERB0001,Cruger Bike Company,1,b'\x01',b'\x01',2002-02-17,67 Monetary Way,,Berkeley,94704,2002-02-17,Mike,E.,White,mike8@adventure-works.com,682-555-0100,Sales Agent,2002-02-17
+114,76,CRUGERB0001,Cruger Bike Company,1,b'\x01',b'\x01',2002-02-17,67 Monetary Way,,Berkeley,94704,2002-02-17,Lenore,J.,Yasi,lenore0@adventure-works.com,206-555-0100,Sales Manager,2002-02-17
+115,77,CUSTOMF0001,"Custom Frames, Inc.",2,b'\x01',b'\x01',2002-02-17,419 River Ash Court,#9,Lakewood,63301,2002-02-17,Fred,A.,Ortiz,fred2@adventure-works.com,275-555-0100,Assistant Sales Agent,2002-02-17
+116,77,CUSTOMF0001,"Custom Frames, Inc.",2,b'\x01',b'\x01',2002-02-17,419 River Ash Court,#9,Lakewood,63301,2002-02-17,Vincent,T.,White,vincent0@adventure-works.com,677-555-0100,Sales Agent,2002-02-17
+117,77,CUSTOMF0001,"Custom Frames, Inc.",2,b'\x01',b'\x01',2002-02-17,419 River Ash Court,#9,Lakewood,63301,2002-02-17,Arthur,,Yasinski,arthur0@adventure-works.com,194-555-0100,Sales Manager,2002-02-17
+118,78,AURORAB0001,Aurora Bike Center,1,b'\x01',b'\x01',2001-06-09,65 Park Glen Court,,Port Orchard,98366,2001-06-09,Patricia,B.,Porter,patricia1@adventure-works.com,939-555-0100,Sales Associate,2001-06-09
+119,78,AURORAB0001,Aurora Bike Center,1,b'\x01',b'\x01',2001-06-09,65 Park Glen Court,,Port Orchard,98366,2001-06-09,Mark,,Wistrom,mark6@adventure-works.com,890-555-0100,Sales Manager,2001-06-09
+120,78,AURORAB0001,Aurora Bike Center,1,b'\x01',b'\x01',2001-06-09,65 Park Glen Court,,Port Orchard,98366,2001-06-09,Michael,,Zeman,michael27@adventure-works.com,240-555-0100,Sales Agent,2001-06-09
+121,79,GMASKI0001,GMA Ski & Bike,1,b'\x01',b'\x01',2001-06-09,50 Breck Court,,Bremerton,98312,2001-06-09,Constance,J.,Posner,constance0@adventure-works.com,686-555-0100,Sales Agent,2001-06-09
+122,80,BICYCLE0001,Bicycle Specialists,1,b'\x01',b'\x01',2002-01-23,1286 Cincerto Circle,,Lake Oswego,97034,2002-01-23,Cheryl,J.,Pompa,cheryl1@adventure-works.com,433-555-0100,Sales Agent,2002-01-23
+123,81,BLOOMING0001,Bloomington Multisport,1,b'\x01',b'\x01',2002-01-23,218 Fall Creek Road,,West Covina,91791,2002-01-23,Marie,M.,Richmeier,marie1@adventure-works.com,172-555-0100,Sales Agent,2002-01-23
+124,82,ILLINOIS0001,Illinois Trek & Clothing,1,b'\x01',b'\x01',2002-01-23,1192 Parkway Drive,,Mill Valley,68601,2002-01-23,Tad,,Orman,tad0@adventure-works.com,533-555-0100,Sales Manager,2002-01-23
+125,83,LITWARE0001,"Litware, Inc.",1,b'\x01',b'\x01',2001-05-26,4405 Balboa Court,,Santa Cruz,95062,2001-05-26,Lori,,Oviatt,lori3@adventure-works.com,529-555-0100,Sales Manager,2001-05-26
+126,84,PROSE0001,"Proseware, Inc.",4,b'\x00',b'\x00',2001-06-09,50 Big Canyon Road,,Lebanon,97355,2001-06-09,Eric,E.,Rhodes,eric8@adventure-works.com,113-555-0100,Sales Manager,2001-06-09
+127,85,AMERICAN0001,American Bicycles and Wheels,1,b'\x01',b'\x01',2001-05-26,1667 Warren Street,,West Covina,91791,2001-05-26,Mary Lou,M.,Quintana,marylou0@adventure-works.com,430-555-0100,Sales Associate,2001-05-26
+128,85,AMERICAN0001,American Bicycles and Wheels,1,b'\x01',b'\x01',2001-05-26,1667 Warren Street,,West Covina,91791,2001-05-26,Barbara,K.,Wisnewski,barbara8@adventure-works.com,757-555-0100,Sales Manager,2001-05-26
+129,85,AMERICAN0001,American Bicycles and Wheels,1,b'\x01',b'\x01',2001-05-26,1667 Warren Street,,West Covina,91791,2001-05-26,Robert,,Zare,robert14@adventure-works.com,314-555-0100,Sales Agent,2001-05-26
+130,86,CARLSON0001,Carlson Specialties,2,b'\x01',b'\x01',2002-01-24,2313 B Southampton Rd,,Missoula,59801,2002-01-24,William,J.,Richter,william4@adventure-works.com,519-555-0100,Sales Associate,2002-01-24
+131,86,CARLSON0001,Carlson Specialties,2,b'\x01',b'\x01',2002-01-24,2313 B Southampton Rd,,Missoula,59801,2002-01-24,Caroline,M.,Woodard,caroline1@adventure-works.com,384-555-0100,Sales Manager,2002-01-24
+132,86,CARLSON0001,Carlson Specialties,2,b'\x01',b'\x01',2002-01-24,2313 B Southampton Rd,,Missoula,59801,2002-01-24,Juanita,J.,Zimmerman,juanita1@adventure-works.com,194-555-0100,Sales Agent,2002-01-24
+133,87,EXPERTB0001,Expert Bike Co,1,b'\x01',b'\x01',2002-02-25,8892 Columbia River Ct.,,Santa Cruz,95062,2002-02-25,Celine,J.,Reed,celine0@adventure-works.com,340-555-0100,Sales Agent,2002-02-25
+134,88,GREENWOO0001,Greenwood Athletic Company,1,b'\x01',b'\x01',2002-02-25,6441 Co Road,,Lemon Grove,85252,2002-02-25,Barbara,,Moreland,barbara6@adventure-works.com,959-555-0100,Sales Manager,2002-02-25
+135,89,SPORTSH0001,Sports House,1,b'\x01',b'\x01',2002-02-25,2014 Delta Road,,Burien,98168,2002-02-25,Michael,J,O'Connell,michael19@adventure-works.com,761-555-0100,Sales Manager,2002-02-25
+136,89,SPORTSH0001,Sports House,1,b'\x01',b'\x01',2002-02-25,2014 Delta Road,,Burien,98168,2002-02-25,Cathan,,Cook,cathan0@adventure-works.com,55-2555-0100,Sales Associate,2002-02-25
+137,90,RELIANCE0001,"Reliance Fitness, Inc.",2,b'\x00',b'\x00',2002-03-05,5514 Grant Street,,Ballard,98107,2002-03-05,Carol,,Philips,carol3@adventure-works.com,996-555-0100,Sales Associate,2002-03-05
+138,91,WESTAMER0001,WestAmerica Bicycle Co.,1,b'\x00',b'\x01',2002-03-21,8040 Erie Dr,6 Monteira,Houston,77003,2002-03-21,Tim,,O'Brien,tim1@adventure-works.com,360-555-0100,Sales Agent,2002-03-21
+139,92,AMERICAN0002,American Bikes,1,b'\x01',b'\x01',2001-06-09,7179 Montana,,Torrance,90505,2001-06-09,Susan,J.,Ramos,susan5@adventure-works.com,839-555-0100,Sales Agent,2001-06-09
+140,92,AMERICAN0002,American Bikes,1,b'\x01',b'\x01',2001-06-09,7179 Montana,,Torrance,90505,2001-06-09,Michael,J.,Worland,michael26@adventure-works.com,196-555-0100,Sales Associate,2001-06-09
+141,93,CHICAGO0002,Chicago Rent-All,2,b'\x01',b'\x01',2002-01-24,15 Pear Dr.,,Newport Beach,92625,2002-01-24,Bobby,,Moore,bobby0@adventure-works.com,879-555-0100,Sales Manager,2002-01-24
+142,94,SUPERIOR0001,Superior Bicycles,1,b'\x01',b'\x01',2002-03-06,87 S. Rising Ave,,Lynnwood,98036,2002-03-06,Stu,J.,Osborn,stu0@adventure-works.com,472-555-0100,Sales Associate,2002-03-06
+143,95,TEAMATH0001,Team Athletic Co.,1,b'\x01',b'\x01',2002-03-06,581 Roundtree Place,,Spokane,99202,2002-03-06,Enoch,T,Remick,enoch0@adventure-works.com,800-555-0100,Sales Associate,2002-03-06
+144,96,HILLBIC0001,Hill Bicycle Center,1,b'\x01',b'\x01',2002-02-25,87 Pheasant Circle,,Oakland,94611,2002-02-25,Carole,,Poland,carole1@adventure-works.com,135-555-0100,Sales Agent,2002-02-25
+145,97,NORTHW0001,Northwind Traders,1,b'\x01',b'\x01',2002-02-25,137 Lancelot Dr,,Phoenix,85004,2002-02-25,Tina,A.,Perko,tina1@adventure-works.com,104-555-0100,Sales Agent,2002-02-25
+146,98,TRIKES0001,"Trikes, Inc.",2,b'\x01',b'\x01',2002-03-06,90 Sunny Ave,,Berkeley,94704,2002-03-06,William,J.,Monroe,william3@adventure-works.com,315-555-0100,Sales Associate,2002-03-06
+147,99,MARSH0001,Marsh,1,b'\x01',b'\x01',2002-03-06,7 B Way,,Woodburn,97071,2002-03-06,Robert,,O'Hara,robert11@adventure-works.com,139-555-0100,Sales Associate,2002-03-06
+148,100,HOLIDAY0001,Holiday Skate & Cycle,1,b'\x01',b'\x01',2002-03-06,3294 Buena Vista,,Lemon Grove,85284,2002-03-06,Russell,A.,Reed,russell3@adventure-works.com,115-555-0100,Assistant Sales Agent,2002-03-06
+149,100,HOLIDAY0001,Holiday Skate & Cycle,1,b'\x01',b'\x01',2002-03-06,3294 Buena Vista,,Lemon Grove,85284,2002-03-06,Gloria,B.,Wilson,gloria2@adventure-works.com,893-555-0100,Sales Agent,2002-03-06
+150,100,HOLIDAY0001,Holiday Skate & Cycle,1,b'\x01',b'\x01',2002-03-06,3294 Buena Vista,,Lemon Grove,85284,2002-03-06,Gary,,Yukish,gary7@adventure-works.com,518-555-0100,Sales Manager,2002-03-06
+151,101,TOURING0001,Touring Equipment Center,1,b'\x01',b'\x01',2002-03-06,3681 South St.,,St. Louis,63103,2002-03-06,Jamie,,Reding,jamie0@adventure-works.com,124-555-0100,Sales Associate,2002-03-06
+152,102,FITNESS0001,Fitness Association,1,b'\x01',b'\x01',2002-03-06,8629 Pepper Place,,Bellevue,98004,2002-03-06,Trish,E.,Pederson,trish0@adventure-works.com,550-555-0100,Assistant Sales Agent,2002-03-06
+153,102,FITNESS0001,Fitness Association,1,b'\x01',b'\x01',2002-03-06,8629 Pepper Place,,Bellevue,98004,2002-03-06,Kelly,J.,Whitworth,kelly1@adventure-works.com,550-555-0100,Sales Agent,2002-03-06
+154,102,FITNESS0001,Fitness Association,1,b'\x01',b'\x01',2002-03-06,8629 Pepper Place,,Bellevue,98004,2002-03-06,Tom,,Youtsey,tom3@adventure-works.com,113-555-0100,Sales Manager,2002-03-06
+155,103,MORGANB0001,Morgan Bike Accessories,1,b'\x01',b'\x01',2002-03-05,9098 Story Lane,,Albany,12210,2002-03-05,Alan,L.,Monitor,alan2@adventure-works.com,142-555-0100,Sales Associate,2002-03-05
+156,104,PROFESSI0001,Professional Athletic Consultants,1,b'\x01',b'\x01',2002-03-05,20 Smiling Tree Court,,Burbank,91502,2002-03-05,Albert,A.,Rhodes,albert1@adventure-works.com,504-555-0100,Sales Associate,2002-03-05
